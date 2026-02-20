@@ -232,9 +232,9 @@ export default function CompanyPage() {
               Join us
             </h2>
             <p className="text-xl text-neutral-600 mb-10 leading-relaxed">
-              We're building a world-class team to transform outbound sales. 
-              If you're passionate about AI, sales, and building products that matter, 
-              we'd love to hear from you.
+              We&apos;re building a world-class team to transform outbound sales. 
+              If you&apos;re passionate about AI, sales, and building products that matter, 
+              we&apos;d love to hear from you.
             </p>
             <Button variant="primary" size="lg">
               View Open Positions
@@ -251,7 +251,7 @@ export default function CompanyPage() {
               GET IN TOUCH
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-16 text-neutral-900 text-center">
-              Let's talk
+              Let&apos;s talk
             </h2>
 
             <div className="grid md:grid-cols-3 gap-8">

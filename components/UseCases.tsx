@@ -43,7 +43,7 @@ export default function UseCases() {
       <Container size="large">
         <div className="max-w-7xl mx-auto">
           <div className="text-sm font-mono text-neutral-500 mb-6">
-            WHO IT'S FOR
+            WHO IT&apos;S FOR
           </div>
           
           <h2 className="text-5xl md:text-6xl font-bold mb-16 text-neutral-900 max-w-3xl">

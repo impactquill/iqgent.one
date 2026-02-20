@@ -88,8 +88,8 @@ export default function Solution() {
                     <div className="p-4 rounded-lg bg-emerald-50 border border-emerald-200">
                       <div className="text-xs font-mono text-emerald-700 mb-2">Generated opening line:</div>
                       <p className="text-sm text-neutral-900 italic">
-                        "Noticed your recent Series B announcement. Your focus on enterprise automation 
-                        aligns perfectly with..."
+                        &ldquo;Noticed your recent Series B announcement. Your focus on enterprise automation 
+                        aligns perfectly with...&rdquo;
                       </p>
                     </div>
                   </div>

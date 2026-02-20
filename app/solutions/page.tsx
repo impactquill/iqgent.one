@@ -104,7 +104,7 @@ export default function SolutionsPage() {
               <span className="gradient-text">that values quality</span>
             </h1>
             <p className="text-xl text-neutral-600 mb-10 leading-relaxed">
-              Whether you're a founder, sales leader, or growth team, IQgent One adapts 
+              Whether you&apos;re a founder, sales leader, or growth team, IQgent One adapts 
               to your workflow and scales with your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -16,7 +16,7 @@ export default function Problem() {
     {
       title: "Manual research",
       description: "Hours wasted per prospect with inconsistent results",
-      impact: "Doesn't scale"
+      impact: "Doesn&apos;t scale"
     },
     {
       title: "Automated feel",
@@ -39,7 +39,7 @@ export default function Problem() {
               <h2 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-neutral-900">
                 Generic outbound
                 <br />
-                <span className="text-neutral-400">doesn't work</span>
+                <span className="text-neutral-400">doesn&apos;t work</span>
               </h2>
               
               <p className="text-xl text-neutral-600 leading-relaxed">
